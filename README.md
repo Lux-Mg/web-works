@@ -21,4 +21,3 @@ Each one is a solo project, from idea to deploy.
 
 ---
 
-Main profile: [Lux-Mg](https://github.com/Lux-Mg) — AI/ML engineering.
