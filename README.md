@@ -4,7 +4,7 @@ Building websites is my side craft:
 a way to experiment with design, motion and frontend tooling, and to take an idea
 all the way to a live page. These are some of the landings I've made along the way.
 
-Each one is a solo project, from idea to deploy.
+Each one is a solo project, from idea to deploy. The brands are concepts I came up with to try out ideas.
 
 > Source code is not published here. Each project links to its live version.
 
