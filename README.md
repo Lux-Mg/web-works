@@ -1,6 +1,6 @@
 # Websites, on the side
 
-I'm an AI/ML engineer — that's my main path. Building websites is my side craft:
+Building websites is my side craft:
 a way to experiment with design, motion and frontend tooling, and to take an idea
 all the way to a live page. These are some of the landings I've made along the way.
 
@@ -8,18 +8,6 @@ Each one is a solo project, from idea to deploy.
 
 > Source code is not published here. Each project links to its live version.
 
-## How I work
-
-1. **Concept first.** I start from the brand or the event and pick one visual
-   direction to commit to — a mood, a palette, a type pairing.
-2. **Design tokens before pages.** Colors, typography and spacing live in one
-   place, with fonts that support Cyrillic as well as Latin.
-3. **Content apart from code.** Texts, events, menus and photos sit in a single
-   content file, so a page can be adapted without touching the components.
-4. **Motion with intent.** Scroll and entrance animations are there to tell the
-   story, not just to decorate.
-5. **Ship it.** Optimized images and video, generated icons and social previews,
-   deployed to Cloudflare Pages or Vercel.
 
 ## Projects
 
